@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d576c416-b7a7-48e0-8e0a-69f86896fbd9"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/167cf42f-353e-4c23-a792-840568519f2c"/>
 <br>
 <br> 
 
@@ -28,6 +28,9 @@
   <img heigth = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
 </a>
 
+<br>
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Taina-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Taina-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -36,8 +39,9 @@
 
 </div>
 
+#
+
 <br>
 <br>
-<img width=100% bottom=50px src=""/>
-  ##
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/167cf42f-353e-4c23-a792-840568519f2c"/>
  
