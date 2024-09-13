@@ -24,11 +24,10 @@
 <div align="center">
 
 <div>
-  <img heigth = "200" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
-  <img heigth = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
 <div>
 
-<br>
 <br>
 
 <div style="display: inline_block"><br>
