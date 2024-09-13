@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/54cfc7d7-4696-4067-81f2-51ee76114047"/>
 <br>
 <br> 
 ## Oi! Eu sou a Tainá Barbosa
