@@ -10,8 +10,8 @@
 
 #
 
-- 🌱 Cursando técnico em Desenvolvimento de sistemas
-- 😄 Pronouns: Ela / Dela
+- 🌱 Estudando: POO Python
+
 #
   
 <div> 
@@ -32,7 +32,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Taina-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Taina-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Taina-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Taina-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
