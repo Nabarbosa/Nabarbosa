@@ -5,6 +5,13 @@
 
 #
 
+<div> 
+</a> 
+  <a href = "mailto:teixeira14taina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
+</div>
+
+#
+
 <a href="https://github.com/Nabarbosa/github-readme-stats">
   <img heigth = "180cm" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
   <img heigth = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
@@ -18,7 +25,3 @@
   
   ##
  
-<div> 
-</a> 
-  <a href = "mailto:teixeira14taina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
-</div>
