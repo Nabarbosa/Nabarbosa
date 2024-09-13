@@ -23,10 +23,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Nabarbosa/github-readme-stats">
-  <img heigth = "180cm" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
-  <img heigth = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
-</a>
+<div>
+  <img heigth = "200" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
+  <img heigth = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
+<div>
 
 <br>
 <br>
