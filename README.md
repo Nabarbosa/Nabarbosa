@@ -10,7 +10,7 @@
 
 #
 
-- 🌱 Estudando: POO Python
+- 🌱 Estudando: POO Java
 
 #
   
