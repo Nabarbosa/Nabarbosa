@@ -1,18 +1,10 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/167cf42f-353e-4c23-a792-840568519f2c"/>
-<br>
-<br> 
+<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF8AFB&text=Modus%20Operandi&section=header&textBg=false&fontColor=400A40&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=40"/>
 
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Forum&weight=700&size=30&pause=1000&color=FBB8EA&width=435&separator=%3C&lines=Print+(%22Hello%2C+World+!%22);" alt="Typing SVG" /></a>
-
 </div>
 
 #
-
-- 🌱 Estudando: POO Java
 - Iniciando no HTML e CSS
-
 #
   
 <div> 
@@ -49,5 +41,5 @@
 
 <br>
 <br>
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/167cf42f-353e-4c23-a792-840568519f2c"/>
+<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF8AFB&section=footer&textBg=false&fontColor=400A40&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=40"/>
  
