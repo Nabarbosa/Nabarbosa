@@ -17,10 +17,11 @@
 
 <div align="center">
 
-<div>
+<!-- <div>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Nabarbosa&show_icons=true&theme=dracula" />
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarbosa&layout=compact&theme=dracula" />
-<div>
+<div> -->
+
 
 <br>
 
