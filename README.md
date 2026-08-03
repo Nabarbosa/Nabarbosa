@@ -2,10 +2,6 @@
 
 <div align="center">
 </div>
-
-#
-- Iniciando no HTML e CSS
-#
   
 <div> 
 </a> 
